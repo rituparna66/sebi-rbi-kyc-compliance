@@ -1,95 +1,63 @@
 # sebi-rbi-kyc-compliance
-SEBI–RBI Compliance RAG System
-Project Summary
+SEBI–RBI COMPLIANCE RAG SYSTEM
 
-Built a Retrieval-Augmented Generation (RAG) system that answers compliance-related queries using structured SEBI and RBI regulatory documents.
+* PROJECT SUMMARY
 
-The system retrieves relevant clauses from curated regulatory text and generates grounded, context-aware responses using LLMs — minimizing hallucination risk in financial compliance scenarios.
+This project implements a Retrieval-Augmented Generation (RAG) system that answers compliance-related queries using structured SEBI and RBI regulatory documents.
 
-Why This Project Matters
+The system retrieves relevant regulatory clauses and generates grounded responses using an LLM. It is designed to reduce hallucinations in financial compliance scenarios.
 
-Financial institutions operate under strict regulatory oversight. Incorrect interpretation of RBI or SEBI guidelines can lead to compliance violations.
+* WHY THIS PROJECT MATTERS
 
-This system demonstrates:
+Financial institutions operate under strict regulatory oversight. Misinterpreting RBI or SEBI guidelines can lead to compliance risks.
 
-Building domain-specific RAG pipelines
+This project demonstrates the ability to build a domain-specific RAG pipeline using regulatory data, implement semantic search over structured legal text, and generate context-aware responses grounded in source material.
 
-Working with regulatory/legal datasets
-
-Reducing LLM hallucination through retrieval grounding
-
-Secure API key handling
-
-Structured data filtering and clause selection
-
-Technical Stack
+* TECHNICAL STACK
 
 Python
-
-OpenAI API (LLM + Embeddings)
-
-FAISS (Vector Similarity Search)
-
+OpenAI API (LLM and Embeddings)
+FAISS for vector similarity search
 JSON-based regulatory dataset
-
 Google Colab
 
-System Architecture
+* SYSTEM ARCHITECTURE
 
 Regulatory document ingestion
-
 Active clause filtering
-
 Text chunking
-
 Embedding generation
-
-Vector index construction
-
+Vector index creation
 Semantic retrieval
-
 Context-grounded answer generation
 
-The model responds strictly using retrieved compliance context.
+The system answers strictly from retrieved regulatory context rather than relying on general model knowledge.
 
-Engineering Highlights
+* ENGINEERING HIGHLIGHTS
 
-Designed clause-level filtering to avoid outdated regulatory text
+Designed clause-level filtering to remove outdated or inactive regulatory text
+Implemented embedding-based semantic retrieval
+Structured the pipeline to minimize irrelevant matches
+Separated API keys from version-controlled code
+Built a modular architecture for future API deployment
 
-Implemented embedding-based semantic search
-
-Structured retrieval pipeline to minimize irrelevant matches
-
-Separated secrets from code using environment variables
-
-Built a modular pipeline for future API deployment
-
-Key Skills Demonstrated
+* SKILLS DEMONSTRATED
 
 Retrieval-Augmented Generation
-
 Vector databases
-
 Embeddings
-
 Compliance domain modeling
+Secure API key handling
+LLM integration workflow
 
-Secure configuration management
+* FUTURE IMPROVEMENTS
 
-LLM integration in production-style workflow
-
-Future Roadmap
-
-Add structured citations in responses
-
-API deployment (FastAPI)
-
+Structured citation output with clause numbering
+FastAPI deployment
 Docker containerization
+Automated regulatory update ingestion
+Frontend interface for compliance users
 
-Automated regulation updates
+* DISCLAIMER
 
-Enterprise-ready UI
-
-Disclaimer
-
-This project is intended for research and technical demonstration purposes and does not constitute legal advice.
+This project is for research and technical demonstration purposes only and does not constitute legal advice.
