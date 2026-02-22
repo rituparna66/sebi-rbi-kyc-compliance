@@ -15,48 +15,48 @@ This project demonstrates the ability to build a domain-specific RAG pipeline us
 
 * TECHNICAL STACK
 
-Python
-OpenAI API (LLM and Embeddings)
-FAISS for vector similarity search
-JSON-based regulatory dataset
-Google Colab
+- Python
+- OpenAI API (LLM and Embeddings)
+- FAISS for vector similarity search
+- JSON-based regulatory dataset
+- Google Colab
 
 * SYSTEM ARCHITECTURE
 
-Regulatory document ingestion
-Active clause filtering
-Text chunking
-Embedding generation
-Vector index creation
-Semantic retrieval
-Context-grounded answer generation
+- Regulatory document ingestion
+- Active clause filtering
+- Text chunking
+- Embedding generation
+- Vector index creation
+- Semantic retrieval
+- Context-grounded answer generation
 
 The system answers strictly from retrieved regulatory context rather than relying on general model knowledge.
 
 * ENGINEERING HIGHLIGHTS
 
-Designed clause-level filtering to remove outdated or inactive regulatory text
-Implemented embedding-based semantic retrieval
-Structured the pipeline to minimize irrelevant matches
-Separated API keys from version-controlled code
-Built a modular architecture for future API deployment
+- Designed clause-level filtering to remove outdated or inactive regulatory text
+- Implemented embedding-based semantic retrieval
+- Structured the pipeline to minimize irrelevant matches
+- Separated API keys from version-controlled code
+- Built a modular architecture for future API deployment
 
 * SKILLS DEMONSTRATED
 
-Retrieval-Augmented Generation
-Vector databases
-Embeddings
-Compliance domain modeling
-Secure API key handling
-LLM integration workflow
+- Retrieval-Augmented Generation
+- Vector databases
+- Embeddings
+- Compliance domain modeling
+- Secure API key handling
+- LLM integration workflow
 
 * FUTURE IMPROVEMENTS
 
-Structured citation output with clause numbering
-FastAPI deployment
-Docker containerization
-Automated regulatory update ingestion
-Frontend interface for compliance users
+- Structured citation output with clause numbering
+- FastAPI deployment
+- Docker containerization
+- Automated regulatory update ingestion
+- Frontend interface for compliance users
 
 * DISCLAIMER
 
