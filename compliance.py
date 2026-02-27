@@ -167,7 +167,7 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
 
 # Set the OpenAI API key (replace with your actual API key if running this cell in isolation)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "OPENAI_API_KEY"
 
 embeddings = OpenAIEmbeddings()
 
