@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/gist/rituparna66/01ab79bab2cace9e52cdae25747ff5d3/complaince.ipynb
 """
 
-!pip install langchain langchain-community faiss-cpu sentence-transformers
-
+import os
 import json
+from langchain_core.documents import Document
 from langchain_core.documents import Document
 
 with open(r"/content/documents_for_embedding.json", "r", encoding="utf-8") as f:
@@ -25,7 +25,7 @@ documents = [
 
 len(documents)
 
-from langchain_core.documents import Document
+
 
 documents = []
 
@@ -39,10 +39,10 @@ for item in data:
 
 print(len(documents))
 # PR test change
-import os
+
 os.environ["OPENAI_API_KEY"] = "OPEN_API_KEY"
 
-!pip install langchain-openai
+
 from langchain_openai import OpenAIEmbeddings
 
 embeddings = OpenAIEmbeddings(
