@@ -1,0 +1,1175 @@
+[
+  
+  {
+    "id": "RBI_KYC_COMP_2025_C1",
+    "content": "RBI repealed the earlier Master Direction on Know Your Customer, DBR.AML.BC.No.81/14.01.001/2015-16 dated February 25, 2016, with immediate effect.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms",
+      "clause_number": "Clause 1",
+      "applicable_to": ["Commercial Banks"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_C2",
+    "content": "All references to the repealed RBI Master Direction on KYC shall be construed as references to the Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms",
+      "clause_number": "Clause 2",
+      "applicable_to": ["Commercial Banks", "Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_C3",
+    "content": "Payment System Providers and Payment System Participants are required to comply with the Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms",
+      "clause_number": "Clause 3",
+      "applicable_to": ["Payment System Providers", "Payment System Participants"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_C4",
+    "content": "This circular has been issued by the Reserve Bank of India under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms",
+      "clause_number": "Clause 4"
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A1",
+    "content": "Know Your Customer, Anti-Money Laundering, and Counter-Terrorist Financing guidelines under the RBI KYC Directions, 2025 shall apply mutatis mutandis to all Prepaid Payment Instrument issuers.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A1",
+      "applicable_to": ["PPI Issuers"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A2",
+    "content": "Minimum KYC for Prepaid Payment Instruments shall include a mobile number verified through OTP and a self-declaration of name and unique identity number of an Officially Valid Document as specified in the RBI KYC Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A2",
+      "applicable_to": ["PPI Issuers"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A3",
+    "content": "For Payment Aggregators, the terms CKYCR, Officially Valid Document, equivalent e-document, Digital KYC, and Video-based Customer Identification Procedure shall have the meanings assigned under the RBI KYC Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A3",
+      "applicable_to": ["Payment Aggregators"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A4",
+    "content": "Payment Aggregators shall conduct Digital KYC in accordance with paragraph 24 of the RBI KYC Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A4",
+      "applicable_to": ["Payment Aggregators"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A5",
+    "content": "Payment Aggregators shall conduct Assisted Video-based Customer Identification Procedures in accordance with paragraph 27 of the RBI KYC Directions, 2025 and maintain records of assisting agents.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A5",
+      "applicable_to": ["Payment Aggregators"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A6",
+    "content": "Acquiring banks shall perform due diligence and periodic KYC updation of AePS Touchpoint Operators in accordance with the RBI KYC Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A6",
+      "applicable_to": ["Acquiring Banks"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A7",
+    "content": "Remitting banks and Business Correspondents shall register Domestic Money Transfer remitters using a verified mobile number and a self-certified Officially Valid Document in accordance with the RBI KYC Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A7",
+      "applicable_to": ["Remitting Banks", "Business Correspondents"]
+    }
+  },
+  {
+    "id": "RBI_KYC_COMP_2025_A8",
+    "content": "KYC documentation and verification for TReDS participants shall be aligned with bank KYC processes conducted under the RBI KYC Directions, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Circular on Compliance with KYC Norms (Annexure)",
+      "clause_number": "Clause A8",
+      "applicable_to": ["TReDS Participants"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_HRJ_01",
+    "content": "Regulated entities shall apply counter-measures in accordance with FATF recommendations for jurisdictions identified as High-Risk Jurisdictions subject to a Call for Action.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-HRJ-01",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+ {
+    "id": "RBI_FATF_2025_HRJ_02",
+    "content": "Democratic People’s Republic of Korea (DPRK), Iran, and Myanmar are classified as High-Risk Jurisdictions subject to a Call for Action as per FATF public statements.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-HRJ-02",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_HRJ_03",
+    "content": "Regulated entities shall apply enhanced due diligence measures proportionate to the risks arising from Myanmar, in line with FATF guidance.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-HRJ-03",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_HRJ_04",
+    "content": "While applying enhanced due diligence measures for Myanmar, regulated entities shall ensure that flows of funds for humanitarian assistance, legitimate non-profit organisation activity, and remittances are not disrupted.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-HRJ-04",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_IM_01",
+    "content": "Regulated entities shall apply increased monitoring measures for jurisdictions identified by FATF as having strategic AML/CFT deficiencies and placed under Increased Monitoring.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-IM-01",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_IM_02",
+    "content": "The jurisdictions under Increased Monitoring include Algeria, Angola, Bolivia, Bulgaria, Burkina Faso, Cameroon, Côte d’Ivoire, Democratic Republic of the Congo, Haiti, Kenya, Lao PDR, Lebanon, Monaco, Mozambique, Namibia, Nepal, Nigeria, South Africa, South Sudan, Syria, Venezuela, Vietnam, Virgin Islands (UK), and Yemen, as updated by FATF.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-IM-02",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_IM_03",
+    "content": "Burkina Faso, Mozambique, Nigeria, and South Africa have been removed from the FATF Increased Monitoring list following FATF review as of October 24, 2025.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-IM-03",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_GEN_01",
+    "content": "FATF advisories do not preclude regulated entities from undertaking legitimate trade and business transactions with jurisdictions identified under Call for Action or Increased Monitoring, subject to applicable due diligence measures.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-GEN-01",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_FATF_2025_GEN_02",
+    "content": "Regulated entities shall refer to the latest FATF public statements and documents issued after each FATF Plenary for updated jurisdictional risk classification and applicable AML/CFT measures.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI Press Release on FATF High-Risk Jurisdictions",
+      "clause_number": "FATF-GEN-02",
+      "applicable_to": ["Regulated Entities"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C17_1",
+    "content": "An All India Financial Institution shall not open any account in an anonymous, fictitious, or benami name.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "17(1)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C17_2",
+    "content": "An All India Financial Institution shall not open an account where it is unable to apply appropriate Customer Due Diligence measures due to non-cooperation of the customer or unreliability of documents or information furnished.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "17(2)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C17_3",
+    "content": "An All India Financial Institution shall not undertake any transaction or commence an account-based relationship without following the prescribed Customer Due Diligence procedure.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "17(3)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C18",
+    "content": "An All India Financial Institution shall not reject an application for onboarding or periodic updation of KYC without application of mind, and reasons for rejection shall be duly recorded by the concerned officer.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "18",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C19",
+    "content": "Where an All India Financial Institution suspects money laundering or terrorist financing and reasonably believes that performing Customer Due Diligence may tip off the customer, it shall not pursue CDD and shall instead file a Suspicious Transaction Report with FIU-IND.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "19",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+    },
+{
+    "id": "RBI_AIFI_KYC_2025_C13",
+    "content": "An All India Financial Institution shall not outsource the decision-making functions relating to determining compliance with Know Your Customer norms.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "13",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C14_3",
+    "content": "An All India Financial Institution shall not nominate the Principal Officer as the Designated Director.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "14(3)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C21_5",
+    "content": "An All India Financial Institution shall ensure that it does not seek introductions while opening accounts.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "21(5)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C22_4",
+    "content": "An All India Financial Institution shall not rely on customer due diligence carried out by a third party based in a high-risk jurisdiction.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "22(4)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C23_EXP1",
+    "content": "Where Aadhaar authentication is not required, an All India Financial Institution shall ensure that the customer redacts or blacks out the Aadhaar number before submission.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "23 – Explanation 1",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C23_EXP4",
+    "content": "Aadhaar number shall not be mandatory for KYC purposes except where benefits under Section 7 of the Aadhaar Act are sought.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "23 – Explanation 4",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C25_6",
+    "content": "An All India Financial Institution shall not allow OTP-based e-KYC accounts to operate beyond one year without full identification.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "25(6)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C25_7",
+    "content": "Where Customer Due Diligence is not completed within one year, deposit accounts shall be closed and debits in borrowal accounts shall be disallowed.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "25(7)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C27_2_IV",
+    "content": "An All India Financial Institution shall reject account opening if prompting or coaching is observed during the Video-based Customer Identification Process.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "27(2)(iv)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C27_2_XII",
+    "content": "Printed copies of equivalent e-documents, including e-PAN, are not valid for the Video-based Customer Identification Process.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "27(2)(xii)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C20_4",
+    "content": "An All India Financial Institution shall not reveal the risk categorisation or the reasons for such categorisation to the customer.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "20(4)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C40_7",
+    "content": "An All India Financial Institution shall issue advance intimations and reminders for periodic KYC updation and shall maintain audit trails of such communications.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "40(7)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "RBI_AIFI_KYC_2025_C69_2_i_c",
+    "content": "An ordering All India Financial Institution shall not execute a wire transfer if prescribed originator and beneficiary information requirements are not met.",
+    "metadata": {
+      "regulator": "RBI",
+      "document": "RBI AIFI KYC Directions, 2025",
+      "clause_number": "69(2)(i)(c)",
+      "applicable_to": ["All India Financial Institutions"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_1_1_VAR_CASH",
+    "content": "Stock exchanges and clearing corporations shall levy Value at Risk margins for cash market securities as per SEBI-specified rates based on liquidity categorization, subject to prescribed minimum percentages.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.1.1",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_1_1_ETF",
+    "content": "Exchange Traded Funds tracking broad-based market indices shall be subject to Value at Risk margin based on 6σ, subject to a minimum of 6 percent.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.1.1 (Note)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_1_2_ELM_CASH",
+    "content": "An Extreme Loss Margin of 3.5 percent shall be levied on all stocks and 2 percent on Exchange Traded Funds tracking broad-based market indices.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.1.2",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_2_1_EWMA",
+    "content": "The volatility estimation parameter lambda under the EWMA method shall be fixed at 0.995 for derivatives and shall also apply to volatility calculation in the cash market.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.2.1",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_2_2_INDEX",
+    "content": "Price Scan Range for index derivatives shall be based on 6σ scaled by the square root of 2, subject to a minimum of 9.3 percent of the underlying price, and 17.7 percent for index options with residual maturity exceeding nine months.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.2.2 (Index)",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_2_2_SINGLE",
+    "content": "Price Scan Range for single stock derivatives shall be based on 6σ scaled by the square root of 2, subject to a minimum of 14.2 percent of the underlying price, and further scaled by the square root of 3 where impact cost exceeds 1 percent.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.2.2 (Single Stock)",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C1_2_3_VOL_SCAN",
+    "content": "Volatility Scan Range shall be levied at 25 percent of annualized EWMA volatility subject to minimum thresholds prescribed for index derivatives, single stock derivatives, and currency and interest rate derivatives.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "1.2.3",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C3_RESPONSIBILITY",
+    "content": "Risk management shall primarily be the responsibility of Clearing Corporations, and the margin framework prescribed by SEBI shall be treated as the minimum requirement.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "3",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C3_CONSERVATIVE",
+    "content": "Clearing Corporations may adopt more conservative margin and risk management measures based on their assessment of risk.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "3",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C4_EFFECTIVE",
+    "content": "The provisions of the SEBI Circular on Margin Framework shall come into effect from May 1, 2020.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "4",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+    },
+{
+    "id": "SEBI_MARGIN_2020_C5_A_SYSTEMS",
+    "content": "Stock Exchanges and Clearing Corporations shall put in place systems and amend bye-laws, rules, and regulations to implement the provisions of the SEBI Circular on Margin Framework.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "5(a)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C5_B_DISSEMINATION",
+    "content": "Stock Exchanges and Clearing Corporations shall disseminate the provisions of the SEBI Circular on Margin Framework to their members and publish the same on their websites.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "5(b)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_C5_C_REPORTING",
+    "content": "Stock Exchanges and Clearing Corporations shall report the status of implementation of the SEBI Circular on Margin Framework to SEBI through the Monthly Development Report.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Framework, 2020",
+      "clause_number": "5(c)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_C5_COLLECTION",
+    "content": "Applicable upfront margins shall be collected from clients in advance of the trade in cash and derivatives segments.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "5",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_C4_FRAMEWORK",
+    "content": "Stock Exchanges and Clearing Corporations shall adopt the framework specified in the Annexure for regular monitoring and levy of penalty for short-collection or non-collection of margins from clients in cash and derivatives segments.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "4",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_ANNEX_I_SNAPSHOTS",
+    "content": "Clearing Corporations shall provide Trading Members and Clearing Members with a minimum of four randomly timed intraday snapshots of client-wise margin requirements per segment each trading day.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure (i)",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_ANNEX_II_REPORTING",
+    "content": "Client-wise margin files provided by Clearing Corporations shall include both end-of-day margin requirements and the peak margin requirement across all intraday snapshots.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure (ii)",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_ANNEX_III_A_EOD_CHECK",
+    "content": "Trading Members and Clearing Members shall compare the client’s end-of-day margin obligation with the margin available with the member at the end of the day.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure (iii)(a)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_ANNEX_III_B_PEAK_CHECK",
+    "content": "Trading Members and Clearing Members shall compare the client’s peak margin obligation across intraday snapshots with the peak margin available with the member during the trading day.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure (iii)(b)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_ANNEX_III_PENALTY_LOGIC",
+    "content": "The higher of the margin shortfall determined from end-of-day comparison or peak margin comparison shall be considered for levy of penalty.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure (iii)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_ANNEX_IV_WEEKLY_VERIFICATION",
+    "content": "Stock Exchanges and Clearing Corporations shall verify availability of margins with Trading Members and Clearing Members on a weekly basis by examining client balances in the members’ books and ledgers.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure (iv)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_PHASE_1_PEAK",
+    "content": "For the first three months from implementation, 25 percent of the client’s peak margin obligation across snapshots shall be compared with the client’s peak margin available with the Trading Member or Clearing Member.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure – Phased Adoption (Phase 1)",
+      "applicable_to": ["Trading Members", "Clearing Members"],
+      "note": "Superseded transitional phase"
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_PHASE_2_PEAK",
+    "content": "For the subsequent three months, 50 percent of the client’s peak margin obligation across snapshots shall be compared with the client’s peak margin available with the Trading Member or Clearing Member.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure – Phased Adoption (Phase 2)",
+      "applicable_to": ["Trading Members", "Clearing Members"],
+      "note": "Superseded transitional phase"
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_PHASE_3_PEAK",
+    "content": "For the subsequent three months, 75 percent of the client’s peak margin obligation across snapshots shall be compared with the client’s peak margin available with the Trading Member or Clearing Member.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure – Phased Adoption (Phase 3)",
+      "applicable_to": ["Trading Members", "Clearing Members"],
+      "note": "Superseded transitional phase"
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_PHASE_4_PEAK",
+    "content": "Thereafter, 100 percent of the client’s peak margin obligation across snapshots shall be compared with the client’s peak margin available with the Trading Member or Clearing Member.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Annexure – Phased Adoption (Phase 4)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_C6_AMENDMENT",
+    "content": "The provisions of the circular dated November 29, 2019 stand amended to the extent specified, while all other provisions remain unchanged.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Clause 6",
+      "applicable_to": ["All Market Participants"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_C7_EFFECTIVE_DATE",
+    "content": "The provisions of the SEBI Circular on Upfront Margin Verification shall come into effect from December 1, 2020.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Clause 7",
+      "applicable_to": ["All Market Participants"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_C8A_SYSTEMS",
+    "content": "Stock Exchanges and Clearing Corporations shall implement necessary systems and amend bye-laws, rules and regulations to give effect to the SEBI Circular on Upfront Margin Verification.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Clause 8(a)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_UPFRONT_MARGIN_2020_C8B_DISSEMINATION",
+    "content": "Stock Exchanges and Clearing Corporations shall disseminate the provisions of the SEBI Circular on Upfront Margin Verification to their members and publish the same on their websites.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Clause 8(b)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+    },
+{
+    "id": "SEBI_UPFRONT_MARGIN_2020_C8C_REPORTING",
+    "content": "Stock Exchanges and Clearing Corporations shall report the implementation status of the SEBI Circular on Upfront Margin Verification to SEBI through the Monthly Development Report.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Upfront Margin Verification, 2020",
+      "clause_number": "Clause 8(c)",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C1_COLLATERAL_PLEDGE_ONLY",
+    "content": "Brokers shall accept collateral from clients in the form of securities only through the mechanism of margin pledge in the depository system.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 1",
+      "applicable_to": ["Brokers"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4A_SINGLE_INSTRUCTION_SALE",
+    "content": "Where a client sells securities pledged as margin, depositories shall provide a single instruction mechanism for pledge release for early pay-in, enabling automatic pledge release and early pay-in block without requiring physical instruction, electronic instruction, DDPI or POA.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(a)",
+      "applicable_to": ["Depositories", "Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4A_EARLY_PAYIN_LIMIT",
+    "content": "The early pay-in block created upon pledge release shall be subject to pay-in validation and shall be limited to the delivery obligation of the client as provided by Clearing Corporations to depositories.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(a)",
+      "applicable_to": ["Depositories", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4B_BLOCKING_INVOKED_SECURITIES",
+    "content": "Upon invocation of margin-pledged securities by a Trading Member, the invoked securities, other than mutual fund units not traded on exchanges, shall be blocked for early pay-in in the client’s demat account with an audit trail maintained in the Trading or Clearing Member’s client margin pledge account.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(b)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4B_PAYIN_VALIDATION_LIMIT",
+    "content": "The pay-in block for invoked securities shall be subject to validation and limited strictly to the client’s delivery obligation as communicated by Clearing Corporations.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(b)",
+      "applicable_to": ["Clearing Corporations", "Depositories"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4B_MF_INVOCATION_REDEMPTION",
+    "content": "In case of invocation of mutual fund units not traded on exchanges, depositories shall provide a single instruction mechanism for invocation-cum-redemption whereby invoked units are credited to the margin pledge account and automatically redeemed.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(b)",
+      "applicable_to": ["Depositories"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4B_SAMEDAY_PAYIN_DISABLED_ACCOUNTS",
+    "content": "Where a client’s trading account is frozen or marked as not permitted to trade after pledge creation, invoked securities shall be credited to the Trading or Clearing Member’s demat account and sold under proprietary code, and pay-in of such securities shall be completed on the same day of invocation.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(b)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C4B_NO_ACCUMULATION_CLIENT_SECURITIES",
+    "content": "Trading and Clearing Members shall ensure that invoked client securities do not remain accumulated in their demat accounts and are utilized for realization of dues through timely pay-in and sale.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 4(b)",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C5_AMENDMENT_EARLIER_CIRCULARS",
+    "content": "Annexure A of the SEBI Circular dated February 25, 2020 and Para 41 of the Master Circular for Stock Brokers dated August 09, 2024 stand amended to the extent specified, while all other provisions remain unchanged.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 5",
+      "applicable_to": ["Stock Brokers", "Stock Exchanges", "Clearing Corporations", "Depositories"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C6_EFFECTIVE_DATE",
+    "content": "The provisions of the SEBI Circular on Margin Pledge and Re-pledge shall come into force with effect from September 5, 2025.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 6",
+      "applicable_to": ["All Regulated Entities"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C7_OPERATING_GUIDELINES_DEPOSITORIES",
+    "content": "Depositories shall specify detailed operating guidelines for implementation of the SEBI Circular on Margin Pledge and Re-pledge on or before July 1, 2025.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 7",
+      "applicable_to": ["Depositories"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C8_1_DISSEMINATION",
+    "content": "Stock Exchanges, Clearing Corporations and Depositories shall disseminate the provisions of the SEBI Circular on Margin Pledge and Re-pledge to their members and publish the same on their websites.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 8.1",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations", "Depositories"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_PLEDGE_2025_C8_2_BYELAW_AMENDMENTS",
+    "content": "Stock Exchanges, Clearing Corporations and Depositories shall amend their bye-laws, rules and regulations as necessary to implement the provisions of the SEBI Circular on Margin Pledge and Re-pledge.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI Circular on Margin Pledge/Re-pledge, 2025",
+      "clause_number": "Clause 8.2",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations", "Depositories"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C3_NON_COMPLIANT_KYC",
+    "content": "Any modification or updating of existing KYC records shall not be carried out in a manner inconsistent with the provisions of the SEBI KYC Master Circular and must be completed within the prescribed timeline.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 3",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C3_ANONYMOUS_ACCOUNTS",
+    "content": "Registered intermediaries shall not open or maintain any anonymous account, fictitious account, or an account on behalf of persons whose identity has not been disclosed or cannot be verified.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 3",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C4_UNIFORM_KYC_FORMATS",
+    "content": "SEBI registered intermediaries shall not use any KYC form or supporting documentation format other than the uniform KYC templates prescribed for the securities market.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 4",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C8_PHYSICAL_PAN",
+    "content": "Registered intermediaries shall not insist on submission of the original PAN card or a physical copy thereof for PAN verification purposes.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 8",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C9_INOPERATIVE_PAN",
+    "content": "Registered intermediaries shall not accept or rely upon a PAN that has become inoperative due to non-linkage with Aadhaar for KYC compliance.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 9",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C15_AADHAAR_STORAGE",
+    "content": "Registered intermediaries shall not store or save the Aadhaar number of the client in their systems under any circumstances.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 15",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C15_UNREDACTED_AADHAAR",
+    "content": "Where Aadhaar authentication is not required, registered intermediaries shall not accept Aadhaar documents unless the Aadhaar number is appropriately redacted or blacked out by the client.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 15",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+    },
+{
+    "id": "SEBI_KYC_MC_2023_C23_ADDRESS_MISMATCH",
+    "content": "Registered intermediaries shall not accept a single proof of address where the correspondence address and permanent address of the client are different.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 23",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C24_THIRD_PARTY_ADDRESS",
+    "content": "Registered intermediaries shall not accept a third-party address as a correspondence address unless full KYC and client due diligence requirements are fulfilled for the third party.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 24",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C26_BENEFICIAL_OWNERSHIP",
+    "content": "Registered intermediaries shall not allow securities transactions where beneficial ownership is apparent but has not been identified and verified using prescribed KYC procedures.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 26",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C28_ONGOING_CDD",
+    "content": "Registered intermediaries shall not continue account-based relationships where inconsistencies in client information are observed without conducting ongoing client due diligence.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 28",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C32_KRA_CONTACT_DETAILS",
+    "content": "Registered intermediaries shall not upload mobile numbers or email addresses of their employees, authorized persons, or distributors in place of client contact details in the KRA system.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 32",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C35_DIGITAL_KYC_CONSENT",
+    "content": "Registered intermediaries shall not initiate online or application-based KYC processes without obtaining the express consent of the client.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 35",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C40_AADHAAR_MASKING",
+    "content": "Registered intermediaries shall not retain or process Aadhaar numbers during digital KYC where Aadhaar authentication is not required and shall ensure masking in accordance with PML Rules.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 40",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C42_AADHAAR_VOLUNTARY",
+    "content": "Registered intermediaries shall not mandate the use of Aadhaar for KYC, as its usage is purely voluntary for the client.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 42",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C45_AUTHORISED_SIGNATORIES",
+    "content": "In case of non-individual clients, registered intermediaries shall not accept documents or signatures without satisfying themselves regarding the genuineness of authorization and identity of the signatories.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 45",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C54_IPV",
+    "content": "Registered intermediaries shall not activate client accounts without conducting In-Person Verification, except in cases specifically exempted under the SEBI KYC Master Circular.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 54",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C61_IPV_EXEMPTION",
+    "content": "Registered intermediaries shall not insist on In-Person Verification where KYC has been completed using Aadhaar authentication or verified DigiLocker documents.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 61",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C76_AADHAAR_KUA",
+    "content": "KUA and Sub-KUA entities shall not store Aadhaar numbers in their databases under any circumstances and shall capture Aadhaar only through UIDAI-approved Aadhaar Number Capture Services.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 76(iv)",
+      "applicable_to": ["KUA", "Sub-KUA"]
+    }
+   },
+ {
+    "id": "SEBI_KYC_MC_2023_C99_UNVALIDATED_KYC",
+    "content": "Clients whose KYC attributes cannot be verified by KRAs shall not be permitted to transact in the securities market until such verification is completed.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 99",
+      "applicable_to": ["Clients", "Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C105_SCORES_ATR",
+    "content": "KRAs shall not submit physical Action Taken Reports for complaints lodged through the SEBI Complaints Redress System (SCORES).",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 105",
+      "applicable_to": ["KRAs"]
+    }
+  },
+  {
+    "id": "SEBI_KYC_MC_2023_C81_CLIENT_CONFIDENTIALITY",
+    "content": "Registered intermediaries shall not disclose or share client information maintained, furnished, or verified, except as required under applicable law.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "SEBI KYC Master Circular, 2023",
+      "clause_number": "Clause 81",
+      "applicable_to": ["Registered Intermediaries"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_CS_2020_C2_UPFRONT_MARGIN_RELAXATION",
+    "content": "If a Trading Member or Clearing Member collects a minimum 20% upfront margin from the client in lieu of VaR and ELM, penalty for short-collection or non-collection of margin shall not be applicable, while Clearing Corporations shall continue to collect margins from members.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Collection and Reporting of Margins – Cash Segment",
+      "clause_number": "Clause 2.1",
+      "applicable_to": ["Trading Members", "Clearing Members", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_CS_2020_CLAR_C2_MARGIN_DEFINITION",
+    "content": "Margins include VaR margin, extreme loss margin, mark-to-market margin, delivery margin, special or additional margins. Trading and Clearing Members shall mandatorily collect upfront VaR and ELM margins, while other margins may be collected within T+2 working days only for penalty purposes.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Collection and Reporting of Margins – Clarification",
+      "clause_number": "Clause 2",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_CS_2020_CLAR_C4_2_EARLY_PAYIN",
+    "content": "Where early pay-in of securities is made to the Clearing Corporation, all margins shall be deemed to have been collected and no penalty for short-collection or non-collection shall arise.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Collection and Reporting of Margins – Clarification",
+      "clause_number": "Clause 4.2",
+      "applicable_to": ["Trading Members", "Clearing Members", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_CS_2020_CLAR_C4_3_PENALTY_TRIGGER",
+    "content": "If pay-in is not made by T+2 working days and other margins are not collected by Trading Members or Clearing Members, penalty shall be levied as applicable.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Collection and Reporting of Margins – Clarification",
+      "clause_number": "Clause 4.3",
+      "applicable_to": ["Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_CS_2020_CLAR_C5_CC_COLLECTION",
+    "content": "Clearing Corporations shall continue to collect upfront VaR margins, extreme loss margins, and other margins from Trading Members and Clearing Members as applicable.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Collection and Reporting of Margins – Clarification",
+      "clause_number": "Clause 5",
+      "applicable_to": ["Clearing Corporations", "Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_CASH_VAR_RATES",
+    "content": "VaR margins for the cash market shall be based on liquidity categorization with prescribed minimum percentages for Group I, Group II, and Group III stocks, and specific VaR margins for ETFs tracking broad-based market indices.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.1.1",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations", "Trading Members", "Clearing Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_CASH_ELM",
+    "content": "Extreme Loss Margin shall be 3.5% for all stocks and 2% for ETFs tracking broad-based market indices.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.1.2",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_DERIV_VOLATILITY_LAMBDA",
+    "content": "The EWMA volatility estimation parameter λ shall be fixed at 0.995 and shall apply to derivatives as well as the cash market.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.2.1",
+      "applicable_to": ["Stock Exchanges", "Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_DERIV_PRICE_SCAN",
+    "content": "Price scan ranges for derivatives shall be based on 6σ scaled by √2, with further scaling by √3 for securities where impact cost exceeds 1%.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.2.2",
+      "applicable_to": ["Clearing Corporations", "Stock Exchanges"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_DERIV_VOL_SCAN",
+    "content": "Volatility scan ranges for derivatives shall be 25% of annualized EWMA volatility, subject to prescribed minimum thresholds for various derivative categories.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.2.3",
+      "applicable_to": ["Clearing Corporations"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_DERIV_NO_SHORT_OPTION_CHARGE",
+    "content": "No separate short option minimum charge shall apply to index derivatives, single stock derivatives, currency derivatives, or interest rate derivatives.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.2.5",
+      "applicable_to": ["Clearing Corporations", "Trading Members"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_ADDITIONAL_VOLATILE_STOCKS",
+    "content": "Additional margins shall be imposed on securities exhibiting extreme intraday price movements for prescribed durations based on observed volatility.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 1.3",
+      "applicable_to": ["Clearing Corporations", "Stock Exchanges"]
+    }
+  },
+  {
+    "id": "SEBI_MARGIN_2020_IMPLEMENTATION_CC",
+    "content": "Risk management shall remain the primary responsibility of Clearing Corporations, and the SEBI margin framework shall be treated as the minimum requirement.",
+    "metadata": {
+      "regulator": "SEBI",
+      "document": "Review of Margin Framework – Cash and Derivatives",
+      "clause_number": "Clause 3",
+      "applicable_to": ["Clearing Corporations"]
+     }
+   }
+ ]
