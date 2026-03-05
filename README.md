@@ -1,63 +1,135 @@
+
 # sebi-rbi-kyc-compliance
-SEBI–RBI COMPLIANCE RAG SYSTEM
 
-* PROJECT SUMMARY
+# SEBI–RBI KYC Compliance RAG System
 
-This project implements a Retrieval-Augmented Generation (RAG) system that answers compliance-related queries using structured SEBI and RBI regulatory documents.
+> A domain-specific Retrieval-Augmented Generation pipeline for answering SEBI and RBI KYC compliance queries — grounded in source regulatory documents, not model assumptions.
 
-The system retrieves relevant regulatory clauses and generates grounded responses using an LLM. It is designed to reduce hallucinations in financial compliance scenarios.
+---
 
-* WHY THIS PROJECT MATTERS
+## The Problem
 
-Financial institutions operate under strict regulatory oversight. Misinterpreting RBI or SEBI guidelines can lead to compliance risks.
+Financial institutions in India operate under a layered and frequently amended regulatory framework. SEBI and RBI KYC guidelines span hundreds of circulars, master directions, and amendments — many of which override or partially supersede earlier clauses.
 
-This project demonstrates the ability to build a domain-specific RAG pipeline using regulatory data, implement semantic search over structured legal text, and generate context-aware responses grounded in source material.
+Compliance teams and fintech engineers face a recurring challenge: getting accurate, clause-specific answers without manually combing through the full regulatory corpus. Generic LLM responses are unreliable here — they hallucinate clause numbers, miss amendment history, and carry no source attribution.
 
-* TECHNICAL STACK
+This project addresses that gap directly.
 
-- Python
-- OpenAI API (LLM and Embeddings)
-- FAISS for vector similarity search
-- JSON-based regulatory dataset
-- Google Colab
+---
 
-* SYSTEM ARCHITECTURE
+## What This System Does
 
-- Regulatory document ingestion
-- Active clause filtering
-- Text chunking
-- Embedding generation
-- Vector index creation
-- Semantic retrieval
-- Context-grounded answer generation
+The pipeline ingests structured SEBI and RBI regulatory documents, filters to active clauses only, and builds a semantic search index over the corpus. When a query is submitted, it retrieves the most relevant regulatory context and passes it to an LLM — which generates a grounded, source-backed response.
 
-The system answers strictly from retrieved regulatory context rather than relying on general model knowledge.
+The system does not rely on the model's parametric knowledge. Every answer is traceable to a retrieved document chunk.
 
-* ENGINEERING HIGHLIGHTS
+---
 
-- Designed clause-level filtering to remove outdated or inactive regulatory text
-- Implemented embedding-based semantic retrieval
-- Structured the pipeline to minimize irrelevant matches
-- Separated API keys from version-controlled code
-- Built a modular architecture for future API deployment
+## Technical Stack
 
-* SKILLS DEMONSTRATED
+| Layer | Technology |
+|---|---|
+| Language | Python 3 |
+| LLM + Embeddings | OpenAI API (GPT + text-embedding-ada-002) |
+| Vector Search | FAISS |
+| Regulatory Dataset | Structured JSON |
+| Runtime | Google Colab |
 
-- Retrieval-Augmented Generation
-- Vector databases
-- Embeddings
-- Compliance domain modeling
-- Secure API key handling
-- LLM integration workflow
+---
 
-* FUTURE IMPROVEMENTS
+## System Architecture
 
-- Structured citation output with clause numbering
-- FastAPI deployment
-- Docker containerization
-- Automated regulatory update ingestion
-- Frontend interface for compliance users
+```
+Regulatory Documents (SEBI Circulars + RBI Master Directions)
+        │
+        ▼
+  Document Ingestion
+        │
+        ▼
+  Active Clause Filtering         ← removes superseded / inactive text
+        │
+        ▼
+  Text Chunking                   ← clause-level segmentation
+        │
+        ▼
+  Embedding Generation            ← OpenAI text-embedding-ada-002
+        │
+        ▼
+  FAISS Vector Index
+        │
+   Query Input
+        │
+        ▼
+  Semantic Retrieval              ← top-k relevant chunks
+        │
+        ▼
+  Context-Grounded Generation     ← LLM constrained to retrieved context
+        │
+        ▼
+  Compliance Answer + Source Reference
+```
 
-* DISCLAIMER
+---
 
-This project is for research and technical demonstration purposes only and does not constitute legal advice.
+## Engineering Highlights
+
+**Clause-level filtering** — The ingestion pipeline identifies and removes outdated or inactive regulatory text before indexing. This prevents stale circulars from surfacing in retrieval and reduces the risk of incorrect answers based on superseded rules.
+
+**Semantic retrieval over legal text** — Embedding-based search enables the system to surface relevant clauses even when the query phrasing doesn't match regulatory language verbatim — a critical requirement given how differently compliance questions are framed versus how regulations are written.
+
+**Retrieval-constrained generation** — The LLM is explicitly prompted to answer only from retrieved context. This architectural decision directly addresses hallucination risk in high-stakes compliance scenarios.
+
+**Secure credential handling** — API keys are separated from version-controlled code via environment variables, following standard fintech security practices.
+
+**Modular pipeline design** — Each stage (ingestion, filtering, chunking, indexing, retrieval, generation) is independently scoped, making the system extensible for production deployment or additional regulatory corpora.
+
+---
+
+## Why It Matters for Fintech
+
+Regulatory misinterpretation is not just a compliance inconvenience — it carries direct financial and operational risk. Incorrect KYC procedures can trigger RBI/SEBI enforcement action, delay onboarding pipelines, and expose institutions to AML/CFT liability.
+
+This project demonstrates how RAG architecture can be applied to close the gap between regulatory complexity and operational accuracy — a pattern applicable across KYC, AML monitoring, credit risk disclosures, and audit reporting in the Indian fintech stack.
+
+---
+
+## Skills Demonstrated
+
+- Retrieval-Augmented Generation (RAG) architecture
+- Vector database design and semantic search (FAISS)
+- Embedding generation and similarity-based retrieval
+- Compliance domain modeling for Indian financial regulation
+- LLM prompt engineering for grounded, constrained generation
+- Secure API key management
+- Modular ML pipeline design
+
+---
+
+## Roadmap
+
+- [ ] Structured citation output with circular number and clause reference
+- [ ] FastAPI wrapper for REST-based query interface
+- [ ] Docker containerization for portable deployment
+- [ ] Automated ingestion of new SEBI/RBI circulars on release
+- [ ] Frontend interface for compliance and legal teams
+- [ ] Support for multi-hop queries across related regulatory documents
+
+---
+
+## Dataset Coverage
+
+| Regulator | Document Type | Coverage |
+|---|---|---|
+| SEBI | KYC Circulars | 2016 – 2023 |
+| RBI | Master Direction on KYC | 2016 (as amended through 2023) |
+| FATF / PMLA | Overlay Guidelines | Referenced |
+
+---
+
+## Disclaimer
+
+This project is built for research and technical demonstration purposes only. It does not constitute legal or compliance advice. Outputs should not be used as the sole basis for regulatory decisions without independent verification by a qualified compliance professional.
+
+---
+
+*Built to explore applied RAG in Indian fintech compliance. Feedback and contributions welcome.*
