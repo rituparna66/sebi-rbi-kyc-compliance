@@ -34,6 +34,7 @@ Question:
 """
 )
 
+
 rag_chain = (
     {
         "context": itemgetter("input") | retriever,
