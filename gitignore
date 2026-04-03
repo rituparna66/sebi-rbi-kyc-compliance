@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Model artifacts (too large for GitHub)
+model/artifacts/
+
+# MLflow runs
+mlruns/
+
+# Virtual environment
+venv/
+.venv/
