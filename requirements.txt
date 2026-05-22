@@ -3,3 +3,5 @@ langchain-openai
 langchain-community
 faiss-cpu
 openai
+rank-bm25
+sentence-transformers
